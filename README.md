@@ -16,11 +16,15 @@
 
 <br>
 
-### 💻 A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 * 🎯 **Current Focus:** Building **web applications** with **Java**, **JavaScript** and **TypeScript**.
 * 📚 **Learning Next:** Mastering **.NET Core**, **Cloud Solutions** and **DevOps**.
 * 🤝 **Collaborations:** Open to discussions on **Web Development**, **AI** and **Open Source**.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
 
 <br>
 
@@ -63,10 +67,10 @@
 
 <br>
 
-### 🐍 Fun Fact: Commit Snake
+### Commit Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
 <br>
