@@ -23,7 +23,7 @@ const mingDuc = {
   tools: [Git, GitHub, VS Code, IntelliJ IDEA],
   studying: ["Software Engineering", "Web Development"],
   university: "HUFLIT",
-  goal: "Full-stack Developer",
+  goal: "Web Developer",
   challenge: "Improving my TypeScript skills one project at a time"
 }
 ```
