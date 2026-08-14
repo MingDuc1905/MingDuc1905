@@ -5,7 +5,7 @@
 -->
 
 <h2> Hi, I'm MingDuc! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/IMG_2307.jpg" width="230" style="border-radius: 15px;">
 <p><em>Software Engineering Student at <a href="https://huflit.edu.vn">HUFLIT</a><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"></br>Web Developer from <a href="https://en.wikipedia.org/wiki/Vietnam">Vietnam</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
