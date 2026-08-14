@@ -1,6 +1,7 @@
 <!--
   Profile README — MingDuc1905
-  Phong cách: Thaiane Braga (Code Mode) — awesome-github-profile-readme
+  Style: cuong-sadboi-inspired (Tech Universe + Activity Graph + Commit Snake)
+  Theme: purple-black (tím đen)
   Repo này là profile repo — README hiển thị trên github.com/MingDuc1905
 -->
 
@@ -13,28 +14,66 @@
 [![Facebook: mMingDuc](https://img.shields.io/badge/-mMingDuc-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mMingDuc/)](https://www.facebook.com/mMingDuc/)
 [![GitHub MingDuc1905](https://img.shields.io/github/followers/MingDuc1905?label=follow&style=social)](https://github.com/MingDuc1905)
 
+<br>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### 💻 A little more about me...
 
-```javascript
-const mingDuc = {
-  pronouns: "he" | "him",
-  code: [Java, JavaScript, TypeScript, HTML, CSS],
-  tools: [Git, GitHub, VS Code, IntelliJ IDEA],
-  studying: ["Software Engineering", "Web Development"],
-  university: "HUFLIT",
-  goal: "Web Developer",
-  challenge: "Improving my TypeScript skills one project at a time"
-}
-```
+* 🎯 **Current Focus:** Building **web applications** with **Java**, **JavaScript** and **TypeScript**.
+* 📚 **Learning Next:** Mastering **.NET Core**, **Cloud Solutions** and **DevOps**.
+* 🤝 **Collaborations:** Open to discussions on **Web Development**, **AI** and **Open Source**.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
+<br>
 
----
+### 🚀 Tech Universe
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/icons/java.svg" width="50" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/icons/c-sharp.svg" width="50" alt="C#"/>
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/icons/javascript.svg" width="50" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/icons/typescript.svg" width="50" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/icons/reactjs.svg" width="50" alt="React"/>
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/icons/nodejs.svg" width="50" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/icons/expressjs-dark.svg" width="50" alt="Express"/>
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/icons/html5.svg" width="50" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/icons/css3.svg" width="50" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/icons/mysql.svg" width="50" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/icons/microsoft-sql-server.svg" width="50" alt="SQL Server"/>
+</div>
+
+<br>
+
+### 🔧 My Stack & Tools
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/icons/git.svg" width="50" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/icons/github-dark.svg" width="50" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/icons/vscode.svg" width="50" alt="VS Code"/>
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/icons/docker.svg" width="50" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/icons/npm.svg" width="50" alt="npm"/>
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/icons/postman.svg" width="50" alt="Postman"/>
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/main/assets/icons/figma.svg" width="50" alt="Figma"/>
+</div>
+
+<br>
+
+### 📊 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MingDuc1905&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</div>
+
+<br>
+
+### 🐍 Fun Fact: Commit Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MingDuc1905/MingDuc1905/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</div>
+
+<br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MingDuc1905&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://komarev.com/ghpvc/?username=MingDuc1905&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://streak-stats.demolab.com?user=MingDuc1905&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&dates=9CA3AF" alt="GitHub Streak"/>
+  <img src="https://komarev.com/ghpvc/?username=MingDuc1905&label=Profile+views&color=A855F7&style=flat" alt="Profile views"/>
 </p>
 
 ---
