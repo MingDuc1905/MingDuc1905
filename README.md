@@ -85,6 +85,6 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#190](https://github.com/thinlam/Quan_Ly_Du_An/pull/190) in [thinlam/Quan_Ly_Du_An](https://github.com/thinlam/Quan_Ly_Du_An)
-2. 🎉 Merged PR [#186](https://github.com/thinlam/Quan_Ly_Du_An/pull/186) in [thinlam/Quan_Ly_Du_An](https://github.com/thinlam/Quan_Ly_Du_An)
+1. 🎉 Merged PR [#190](https://github.com/thinlam/Quan_Ly_Du_An/pull/190) in [thinlam/Quan_Ly_Du_An](https://github.com/thinlam/Quan_Ly_Du_An)
+2. 💪 Opened PR [#190](https://github.com/thinlam/Quan_Ly_Du_An/pull/190) in [thinlam/Quan_Ly_Du_An](https://github.com/thinlam/Quan_Ly_Du_An)
 <!--END_SECTION:activity-->
