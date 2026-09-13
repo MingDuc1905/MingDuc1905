@@ -85,6 +85,6 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#207](https://github.com/thinlam/Quan_Ly_Du_An/pull/207) in [thinlam/Quan_Ly_Du_An](https://github.com/thinlam/Quan_Ly_Du_An)
-2. 💪 Opened PR [#207](https://github.com/thinlam/Quan_Ly_Du_An/pull/207) in [thinlam/Quan_Ly_Du_An](https://github.com/thinlam/Quan_Ly_Du_An)
+1. 🎉 Merged PR [#33](https://github.com/MingDuc1905/github-achievements/pull/33) in [MingDuc1905/github-achievements](https://github.com/MingDuc1905/github-achievements)
+2. 💪 Opened PR [#33](https://github.com/MingDuc1905/github-achievements/pull/33) in [MingDuc1905/github-achievements](https://github.com/MingDuc1905/github-achievements)
 <!--END_SECTION:activity-->
