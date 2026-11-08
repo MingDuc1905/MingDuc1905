@@ -19,8 +19,6 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 * 🎯 **Current Focus:** Building **web applications** with **Java**, **JavaScript** and **TypeScript**.
-* 📚 **Learning Next:** Mastering **.NET Core**, **Cloud Solutions** and **DevOps**.
-* 🤝 **Collaborations:** Open to discussions on **Web Development**, **AI** and **Open Source**.
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
