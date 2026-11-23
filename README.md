@@ -83,6 +83,6 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#210](https://github.com/thinlam/Quan_Ly_Du_An/pull/210) in [thinlam/Quan_Ly_Du_An](https://github.com/thinlam/Quan_Ly_Du_An)
-2. 💪 Opened PR [#210](https://github.com/thinlam/Quan_Ly_Du_An/pull/210) in [thinlam/Quan_Ly_Du_An](https://github.com/thinlam/Quan_Ly_Du_An)
+1. ❌ Closed PR [#1](https://github.com/MingDuc1905/blockchain/pull/1) in [MingDuc1905/blockchain](https://github.com/MingDuc1905/blockchain)
+2. ❌ Closed PR [#2](https://github.com/MingDuc1905/blockchain/pull/2) in [MingDuc1905/blockchain](https://github.com/MingDuc1905/blockchain)
 <!--END_SECTION:activity-->
